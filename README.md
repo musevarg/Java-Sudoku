@@ -9,10 +9,10 @@ This forced me to research and implement backtracking. If the current board does
 
 I obtained the following result:
 
-![](https://www.sedhna.com/projects/sudoku/su4.png)
+![](https://github.com/musevarg/Java-Sudoku/blob/master/pic1.png?raw=true)
 
 Later, I decided to make this playable and designed a GUI for it and a board checker.
 
-![](https://www.sedhna.com/projects/sudoku/su1.png)
-![](https://www.sedhna.com/projects/sudoku/su2.png)
-![](https://www.sedhna.com/projects/sudoku/su3.png)
+![](https://github.com/musevarg/Java-Sudoku/blob/master/pic2.png?raw=true)
+![](https://github.com/musevarg/Java-Sudoku/blob/master/pic3.png?raw=true)
+![](https://github.com/musevarg/Java-Sudoku/blob/master/pic4.png?raw=true)
